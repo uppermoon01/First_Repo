@@ -139,9 +139,6 @@ def main():
 
             # od = OrderedDict(sorted(VEHICLES.items()))
             
-            # print(" ")
-            # print(od)
-            # print(" ")
             
             # for v in od.keys():
             #     print(getVehicle(od[v].get_vehicle()), " ", od[v].get_trip())
